@@ -1,16 +1,116 @@
-# React + Vite
+# 🏡 Interior Design Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive interior design portfolio website built using React. This project showcases professional UI/UX design principles with clean layouts, smooth interactions, and a scalable architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## React Compiler
+- ⚛️ React (Vite)
+- 🎨 CSS (Custom Styling)
+- 🔀 React Router (Routing)
+- 🖼️ Optimized Images (WebP / Lazy Loading)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and modern UI design  
+- Fully responsive layout (mobile, tablet, desktop)  
+- Smooth navigation with routing  
+- Optimized performance (lazy loading images)  
+- Reusable component-based architecture  
+
+---
+
+## 📂 Project Structure
+# 🏡 Interior Design Portfolio Website
+
+A modern, responsive interior design portfolio website built using React. This project showcases professional UI/UX design principles with clean layouts, smooth interactions, and a scalable architecture.
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 CSS (Custom Styling)
+- 🔀 React Router (Routing)
+- 🖼️ Optimized Images (WebP / Lazy Loading)
+
+---
+
+## ✨ Features
+
+- Clean and modern UI design  
+- Fully responsive layout (mobile, tablet, desktop)  
+- Smooth navigation with routing  
+- Optimized performance (lazy loading images)  
+- Reusable component-based architecture  
+
+---
+
+## 📂 Project Structure
+src/  
+├── assets/  
+├── components/  
+├── pages/  
+├── routes/  
+├── App.jsx  
+├── main.jsx  
+
+
+---
+
+## ✅ What We Have Completed
+
+- 🔹 Navbar with routing  
+- 🔹 Hero section with background image  
+- 🔹 About section (homepage)  
+- 🔹 Gallery section (with filters + lightbox)  
+- 🔹 Projects section (with hover effects)  
+- 🔹 Footer section  
+
+### 📄 Pages Created
+
+- Home Page  
+- About Page  
+- Services Page  
+- Projects Page  
+- Gallery Page  
+- Contact Page  
+
+### ⚙️ Functionality
+
+- Routing setup using React Router  
+- Responsive design for all sections  
+- Image optimization (lazy loading, compression)  
+
+---
+
+## 🔮 Future Improvements
+
+- ✨ Add animations (Framer Motion)  
+- 📩 Integrate contact form with Email (EmailJS / backend)  
+- 🧱 Add masonry layout for gallery  
+- 🔍 Project detail pages (dynamic routing)  
+- 📊 Add testimonials & stats section  
+- 🔐 Add authentication (admin panel for uploads)  
+- 🌐 Deploy to production (Netlify / Vercel)  
+- ⚡ Further performance optimizations  
+
+---
+
+## 📌 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to project
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
