@@ -1,0 +1,66 @@
+.hero {
+  width: 100%;
+  min-height: 90vh;
+  background: 
+    linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.6)),
+    url("./../../assets/Gallery/hero-background.webp");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  padding: 0px 20px 0;
+}
+
+/* Text */
+.title-desc {
+  font-size: 44px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.sub-desc {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-bottom: 35px;
+}
+
+.hero-btns {
+    display: flex;
+    gap: 10px;
+}
+
+/* Buttons (same theme) */
+.hero-btns button:first-child {
+  padding: 12px 22px;
+  background: #111;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hero-btns button:first-child:hover {
+  background: #333;
+}
+
+.hero-btns button:last-child {
+  padding: 12px 22px;
+  background: transparent;
+  /* filter: blur(5px); */
+  color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hero-btns button:last-child:hover {
+  background: rgba(255,255,255,0.1);
+}
