@@ -24,32 +24,6 @@ A modern, responsive interior design portfolio website built using React. This p
 ---
 
 ## 📂 Project Structure
-# 🏡 Interior Design Portfolio Website
-
-A modern, responsive interior design portfolio website built using React. This project showcases professional UI/UX design principles with clean layouts, smooth interactions, and a scalable architecture.
-
----
-
-## 🚀 Tech Stack
-
-- ⚛️ React (Vite)
-- 🎨 CSS (Custom Styling)
-- 🔀 React Router (Routing)
-- 🖼️ Optimized Images (WebP / Lazy Loading)
-
----
-
-## ✨ Features
-
-- Clean and modern UI design  
-- Fully responsive layout (mobile, tablet, desktop)  
-- Smooth navigation with routing  
-- Optimized performance (lazy loading images)  
-- Reusable component-based architecture  
-
----
-
-## 📂 Project Structure
 src/  
 ├── assets/  
 ├── components/  
